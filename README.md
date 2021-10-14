@@ -1,4 +1,4 @@
 - 👋 Hello, je suis @HugoL5
-- 👀 Je suis passioné de Jeux vidéo, de muisque et de Basket
+- 👀 Je suis passionné  de Jeux vidéo, de muisque et de Basket
 - 🌱 J'apprends actuellement le SQF et me perfectionne en HTML et CSS
-- 📫 On peux toujours me trouver sur Discord : || Hugo ||#8021
+- 📫 On peut toujours me trouver sur Discord : || Hugo ||#8021
